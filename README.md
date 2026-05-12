@@ -1,0 +1,1 @@
+AI chatbot is easy. Building a robust, production-ready backend to power it is where the real engineering happens. In this video, we architect a complete AI backend from scratch using FastAPI and the OpenAI SDK.
